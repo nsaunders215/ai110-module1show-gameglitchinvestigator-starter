@@ -52,3 +52,8 @@ Describe your fixed game in numbered steps so a reader can follow along without 
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, describe the Enhanced UI changes here — a screenshot is optional]
+
+
+## Portfolio context
+
+See [portfolio notes](PORTFOLIO.md) for project classification, attribution and verification status.
